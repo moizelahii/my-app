@@ -34,14 +34,13 @@ export default function Card(props) {
         li > CSS < /li> <
         li > JavaScript < /li> <
         li > React < /li> <
-        li > NodeJS < /li> <
-        /ul> <
-        /div>
+        li > NodeJS < /li> 
+        </ul> 
+        </div>
 
 
 
-        <
-        /div>
+        </div>
 
 
 
